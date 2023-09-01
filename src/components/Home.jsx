@@ -5,12 +5,12 @@ import {HiArrowNarrowRight} from 'react-icons/hi'
 
 function Home() {
   return (
-    <div className="bg-black w-full h-screen flex justify-center items-center" name='home'>
+    <div className="bg-black w-full h-screen pt-20 pl-4 flex justify-center items-center" name='home'>
 
         <div className='max-w-[1000px] mx-auto px-[150px] h-full flex flex-col justify-center'>
 
             <p className='px-2'>Hi, my name is</p>
-            <h1 className='text-4xl sm:text-7xl text-green-900 font-bold sm:animate-pulse animate-none'>Pranav Chanagond</h1>
+            <h1 className='text-4xl sm:text-7xl text-green-900 font-bold md:animate-pulse animate-none'>Pranav Chanagond</h1>
             <h2 className='text-4xl sm:text-7xl font-bold'>I'm Full Stack Developer</h2>
             <p className='py-4 max-w-[700px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Perferendis eveniet itaque, atque maiores ea nulla fugiat error similique eligendi mollitia, voluptate laborum suscipit. Molestias, quisquam?</p>
