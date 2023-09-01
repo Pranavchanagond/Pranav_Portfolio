@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pranav_Portfolio/static/css/main.b52e14fb.css",
-    "main.js": "/Pranav_Portfolio/static/js/main.aaf67b2d.js",
+    "main.css": "/Pranav_Portfolio/static/css/main.77681c1e.css",
+    "main.js": "/Pranav_Portfolio/static/js/main.7abc14de.js",
     "static/media/pranavlogo.gif": "/Pranav_Portfolio/static/media/pranavlogo.a3a003e421515628b8a0.gif",
     "static/media/java.png": "/Pranav_Portfolio/static/media/java.5d5cffa04d820ba0644c.png",
     "static/media/react.png": "/Pranav_Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -13,11 +13,11 @@
     "static/media/css.png": "/Pranav_Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/Pranav_Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Pranav_Portfolio/index.html",
-    "main.b52e14fb.css.map": "/Pranav_Portfolio/static/css/main.b52e14fb.css.map",
-    "main.aaf67b2d.js.map": "/Pranav_Portfolio/static/js/main.aaf67b2d.js.map"
+    "main.77681c1e.css.map": "/Pranav_Portfolio/static/css/main.77681c1e.css.map",
+    "main.7abc14de.js.map": "/Pranav_Portfolio/static/js/main.7abc14de.js.map"
   },
   "entrypoints": [
-    "static/css/main.b52e14fb.css",
-    "static/js/main.aaf67b2d.js"
+    "static/css/main.77681c1e.css",
+    "static/js/main.7abc14de.js"
   ]
 }
