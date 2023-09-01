@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pranav_Portfolio/static/css/main.7a81d81f.css",
+    "main.js": "/Pranav_Portfolio/static/js/main.00550d82.js",
+    "static/media/pranavlogo.gif": "/Pranav_Portfolio/static/media/pranavlogo.a3a003e421515628b8a0.gif",
+    "static/media/java.png": "/Pranav_Portfolio/static/media/java.5d5cffa04d820ba0644c.png",
+    "static/media/react.png": "/Pranav_Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/servlet.png": "/Pranav_Portfolio/static/media/servlet.a74ee9b7c4d9411b432b.png",
+    "static/media/springboot.png": "/Pranav_Portfolio/static/media/springboot.9463240a940247a1d9e9.png",
+    "static/media/html.png": "/Pranav_Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/Pranav.png": "/Pranav_Portfolio/static/media/Pranav.bcc387ecde752dd16ed4.png",
+    "static/media/tailwind.png": "/Pranav_Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Pranav_Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Pranav_Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Pranav_Portfolio/index.html",
+    "main.7a81d81f.css.map": "/Pranav_Portfolio/static/css/main.7a81d81f.css.map",
+    "main.00550d82.js.map": "/Pranav_Portfolio/static/js/main.00550d82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a81d81f.css",
+    "static/js/main.00550d82.js"
+  ]
+}
