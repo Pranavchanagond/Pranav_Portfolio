@@ -14,7 +14,7 @@ function Skills() {
 	return (
 		<div className='w-full h-screen bg-black' name='skills'>
 			{/* Container */}
-			<div className='max-w-[1000px] w-full h-screen p-4 mx-auto flex flex-col justify-center '>
+			<div className='max-w-[1000px] w-full h-screen p-4 mx-auto flex flex-col justify-center'>
 				<div >
 					<p className='text-4xl border-b-4 inline font-bold'>Skills</p>
 					<p className='py-5'>These are the technologies I've worked with.</p>
