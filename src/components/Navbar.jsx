@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa';
+import { SiLeetcode } from 'react-icons/si';
 import { Link } from 'react-scroll';
 import Logo from '../assets/Pranav.png';
 
@@ -59,9 +60,9 @@ function Navbar() {
 				</li>
 			</ul>
 
-				{/* Navbar social */}
-				<div className='lg:hidden md:justify-between md:max-w-[200px] md:p-4 md:text-xl flex hover:cursor-pointer'>
-			<ul className='py-2'>
+			{/* Navbar social */}
+			<div className='lg:hidden md:justify-between md:max-w-[200px] md:p-4 md:text-xl flex hover:cursor-pointer'>
+				<ul className='py-2'>
 					<li className=''>
 						<a
 							href='https://github.com/Pranavchanagond'
@@ -82,7 +83,6 @@ function Navbar() {
 					</li>
 				</ul>
 			</div>
-
 
 			{/* Hamburg */}
 			<div
@@ -142,7 +142,6 @@ function Navbar() {
 				</li>
 			</ul>
 
-			
 			{/* social */}
 			<div className='hidden lg:flex flex fixed flex-col top-[35%] left-0 '>
 				<ul className='py-2 '>
@@ -162,6 +161,16 @@ function Navbar() {
 							className='flex justify-between w-full items-center '
 						>
 							Linkedi {<FaLinkedin size={35} />}
+						</a>
+					</li>
+				</ul>
+				<ul className='py-2 '>
+					<li className='flex w-[150px]  ml-[-90px] hover:ml-[-60px] duration-300 h-[40px] justify-between items-center '>
+						<a
+							href='https://leetcode.com/PranavPSC/'
+							className='flex justify-between w-full items-center '
+						>
+							Linkedi {<SiLeetcode size={35} />}
 						</a>
 					</li>
 				</ul>
