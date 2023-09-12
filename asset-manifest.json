@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pranav_Portfolio/static/css/main.4d2c94d3.css",
-    "main.js": "/Pranav_Portfolio/static/js/main.8b033ee5.js",
+    "main.js": "/Pranav_Portfolio/static/js/main.4ca2de79.js",
     "static/media/pranavlogo.gif": "/Pranav_Portfolio/static/media/pranavlogo.a3a003e421515628b8a0.gif",
     "static/media/java.png": "/Pranav_Portfolio/static/media/java.5d5cffa04d820ba0644c.png",
     "static/media/react.png": "/Pranav_Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -14,10 +14,10 @@
     "static/media/javascript.png": "/Pranav_Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Pranav_Portfolio/index.html",
     "main.4d2c94d3.css.map": "/Pranav_Portfolio/static/css/main.4d2c94d3.css.map",
-    "main.8b033ee5.js.map": "/Pranav_Portfolio/static/js/main.8b033ee5.js.map"
+    "main.4ca2de79.js.map": "/Pranav_Portfolio/static/js/main.4ca2de79.js.map"
   },
   "entrypoints": [
     "static/css/main.4d2c94d3.css",
-    "static/js/main.8b033ee5.js"
+    "static/js/main.4ca2de79.js"
   ]
 }
