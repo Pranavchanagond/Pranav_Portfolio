@@ -82,6 +82,16 @@ function Navbar() {
 						</a>
 					</li>
 				</ul>
+				<ul className='py-2'>
+					<li className=' '>
+						<a
+							href='https://leetcode.com/PranavPSC/'
+							className='flex  w-full items-center '
+						>
+							{<SiLeetcode size={25} />}
+						</a>
+					</li>
+				</ul>
 			</div>
 
 			{/* Hamburg */}
