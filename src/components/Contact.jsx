@@ -6,7 +6,7 @@ function Contact() {
 	return (
 		<div
 			name='contact'
-			className='p-4 pt-[80px] bg-black w-full  flex justify-center items-center'
+			className='p-4 pt-[100px] bg-black w-full  flex justify-center items-center'
 		>
 			<form
 				method='post'
@@ -21,18 +21,18 @@ function Contact() {
 				</div>
 				<div>
 					<div className='relative  mb-2  top-5'>
-						<div className='flex justify-center animate-bounce'>
-							<div className='absolute inline-block top-[60px] sm:top-[100px] left-[44%]'>
+						<div className=' justify-center  hidden sm:flex animate-bounce'>
+							<div className='absolute inline-block top-[20px] sm:top-[30px] left-[47%]'>
 								<img
 									src={TEDDYEYE}
-									className='w-[20%] '
+									className='w-[10%] '
 									alt=''
 								/>
 							</div>
 
 							<img
 								src={TEDDYE}
-								className='w-[30%] bg-transparent rounded-full'
+								className='w-[12%] bg-transparent rounded-full'
 								alt=''
 							/>
 						</div>

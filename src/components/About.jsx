@@ -4,9 +4,9 @@ const About = () => {
 	return (
 		<div
 			name='about'
-			className='bg-black w-full h-screen'
+			className='bg-black w-full h-screen flex justify-center'
 		>
-			<div className='w-full h-full flex flex-col justify-center items-center  '>
+			<div className='w-full  flex flex-col justify-center items-center  '>
 				<div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
 					<div className='pl-4 pb-8 sm:text-right'>
 						<p className='text-5xl sm-text-7xl font-bold inline border-b-2'>
