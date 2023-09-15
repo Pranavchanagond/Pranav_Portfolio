@@ -6,12 +6,12 @@ import { HiArrowNarrowRight } from 'react-icons/hi';
 function Home() {
 	return (
 		<div
-			className='bg-black w-full h-screen pt-[90px] md:pt-[0px]  flex  px-24'
+			className='bg-black w-full  pt-[90px] md:pt-[0px]  flex  px-24'
 			name='home'
 		>
 			<div className=' w-full flex flex-col  justify-center md:pl-44'>
 				<p className='px-2'>Hi, my name is</p>
-				<h1 className='text-2xl sm:text-7xl text-green-900 font-bold md:animate-pulse animate-none'>
+				<h1 className='text-2xl sm:text-6xl py-4 pr-4 text-green-900 font-bold animate-typing overflow-hidden whitespace-nowrap'>
 					Pranav Chanagond
 				</h1>
 				<h2 className='text-2xl sm:text-6xl font-bold'>
@@ -27,10 +27,11 @@ function Home() {
 					skills and contribute to a dynamic team. Feel free to reach out to me{' '}
 					<span className='text-blue-500'>+91-9881275058</span> or{' '}
 					<span className='text-blue-500'>
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pranav.ssc@gmail.com">
-            pranav.ssc@gmail.com
-            </a>
-            </span>.
+						<a href='https://mail.google.com/mail/?view=cm&fs=1&to=pranav.ssc@gmail.com'>
+							pranav.ssc@gmail.com
+						</a>
+					</span>
+					.
 				</p>
 
 				<div className=''>
